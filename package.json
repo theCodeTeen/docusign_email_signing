@@ -1,0 +1,15 @@
+{
+  "name": "docusign_email_signing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dharmik bhadra",
+  "license": "ISC",
+  "dependencies": {
+    "docusign-esign": "^6.4.0",
+    "moment": "^2.29.4"
+  }
+}
